@@ -42,3 +42,12 @@ This repository contains a list of semiconductor firms operating in the UK. Feel
 - Oxford Instruments
 - Mediatek
 - Nordic Semiconductors
+- Sensata
+- Axelera
+- Codasip
+- Kyoxia
+- Avicena
+- AccelerComm
+- AST
+- Dukosi
+- SatixFy
