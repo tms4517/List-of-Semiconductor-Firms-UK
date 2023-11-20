@@ -1,2 +1,44 @@
 # List-of-Semiconductor-Firms-UK
-This repository contains a list of semiconductor firms operating in the UK.
+This repository contains a list of semiconductor firms operating in the UK. Feel free to add to the list.
+
+- Apple
+- Samsung
+- AMD
+- ARM
+- NVIDIA
+- Microchip
+- Broadcom
+- Analog Devices
+- Cirrus Logic
+- NXP Semiconductors
+- Qualcomm
+- Semtech
+- Sondrel
+- ST Microelectronics
+- Infineon
+- Intel
+- Texas Instruments
+- Imagination Technologies
+- Graphcore
+- Raspberry Pi
+- Ultra SoC
+- PragamtIC
+- EnSilica
+- CML Manufacturing
+- Easics
+- OnSemi
+- Renesas
+- Huawei
+- Amazon
+- Google
+- Meta
+- SECQAI
+- Crypto Quantique
+- SiFive
+- Nokia
+- Sony
+- Indie Semiconductor
+- Toshiba
+- Oxford Instruments
+- Mediatek
+- Nordic Semiconductors
