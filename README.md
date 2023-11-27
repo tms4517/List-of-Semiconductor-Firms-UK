@@ -51,3 +51,4 @@ This repository contains a list of semiconductor firms operating in the UK. Feel
 - AST
 - Dukosi
 - SatixFy
+- vyperCore
