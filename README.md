@@ -53,3 +53,5 @@ This repository contains a list of semiconductor firms operating in the UK. Feel
 - SatixFy
 - vyperCore
 - Optalsys
+- Verilab
+- lowRISC
