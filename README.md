@@ -55,3 +55,4 @@ This repository contains a list of semiconductor firms operating in the UK. Feel
 - Optalsys
 - Verilab
 - lowRISC
+- Cadence
