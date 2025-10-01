@@ -56,3 +56,11 @@ This repository contains a list of semiconductor firms operating in the UK. Feel
 - Verilab
 - lowRISC
 - Cadence
+- Envisics
+- XTX Markets
+- G Research
+- Hudson Rover Trading
+- Jump Trading
+- Citadel
+- Maven Securities
+  
