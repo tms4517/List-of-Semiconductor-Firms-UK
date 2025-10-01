@@ -59,8 +59,8 @@ This repository contains a list of semiconductor firms operating in the UK. Feel
 - Envisics
 - XTX Markets
 - G Research
-- Hudson Rover Trading
+- Hudson River Trading
 - Jump Trading
 - Citadel
 - Maven Securities
-  
+- Jane Street  
