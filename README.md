@@ -22,7 +22,7 @@ This repository contains a list of semiconductor firms operating in the UK. Feel
 - Graphcore
 - Raspberry Pi
 - Ultra SoC
-- PragamtIC
+- PragmatIC
 - EnSilica
 - CML Manufacturing
 - Easics
