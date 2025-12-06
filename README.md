@@ -1,67 +1,64 @@
 # List-of-Semiconductor-Firms-UK
 This repository contains a list of semiconductor firms operating in the UK. Feel free to add to the list.
 
-- Apple
-- Samsung
+- AccelerComm
+- Analog Devices
+- Amazon
 - AMD
 - ARM
-- NVIDIA
-- Microchip
+- AST
+- Avicena
+- Axelera
 - Broadcom
-- Analog Devices
-- Cirrus Logic
-- NXP Semiconductors
-- Qualcomm
-- Semtech
-- Sondrel
-- ST Microelectronics
+- Cadence
+- CML Manufacturing
+- Codasip
+- Crypto Quantique
+- Dukosi
+- Easics
+- EnSilica
+- Envisics
+- Fractile
+- G Research
+- Google
+- Graphcore
+- Hudson River Trading
+- Huawei
+- Imagination Technologies
 - Infineon
 - Intel
-- Texas Instruments
-- Imagination Technologies
-- Graphcore
-- Raspberry Pi
-- Ultra SoC
-- PragmatIC
-- EnSilica
-- CML Manufacturing
-- Easics
-- OnSemi
-- Renesas
-- Huawei
-- Amazon
-- Google
-- Meta
-- SECQAI
-- Crypto Quantique
-- SiFive
-- Nokia
-- Sony
 - Indie Semiconductor
-- Toshiba
-- Oxford Instruments
-- Mediatek
-- Nordic Semiconductors
-- Sensata
-- Axelera
-- Codasip
-- Kyoxia
-- Avicena
-- AccelerComm
-- AST
-- Dukosi
-- SatixFy
-- vyperCore
-- Optalsys
-- Verilab
-- lowRISC
-- Cadence
-- Envisics
-- XTX Markets
-- G Research
-- Hudson River Trading
-- Jump Trading
-- Citadel
-- Maven Securities
 - Jane Street
-- Fractile
+- Jump Trading
+- Kyoxia
+- lowRISC
+- Maven Securities
+- Mediatek
+- Meta
+- Microchip
+- NVIDIA
+- Nokia
+- Nordic Semiconductors
+- NXP Semiconductors
+- OnSemi
+- Optalsys
+- Oxford Instruments
+- PragmatIC
+- Qualcomm
+- Raspberry Pi
+- Renesas
+- Samsung
+- SatixFy
+- SECQAI
+- Semtech
+- Sensata
+- SiFive
+- Sondrel
+- Sony
+- ST Microelectronics
+- Texas Instruments
+- Toshiba
+- Ultra SoC
+- Verilab
+- vyperCore
+- XTX Markets
