@@ -63,4 +63,5 @@ This repository contains a list of semiconductor firms operating in the UK. Feel
 - Jump Trading
 - Citadel
 - Maven Securities
-- Jane Street  
+- Jane Street
+- Fractile
