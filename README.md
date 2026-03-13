@@ -6,6 +6,7 @@ This repository contains a list of semiconductor firms operating in the UK. Feel
 - Amazon
 - AMD
 - ARM
+- Apple
 - AST
 - Avicena
 - Axelera
@@ -14,6 +15,7 @@ This repository contains a list of semiconductor firms operating in the UK. Feel
 - CML Manufacturing
 - Codasip
 - Crypto Quantique
+- Cube Technologies
 - Dukosi
 - Easics
 - EnSilica
